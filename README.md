@@ -1,5 +1,5 @@
 # AtividadeEncontroRemoto
-Atividade de Versionamento - SENAI
+Atividade de Versionamento - SENAI </br>
 Última atividade do módulo de versionamento
 Proposta: 
 - Criar um repositório;
